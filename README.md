@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Paulo Roberto
 
 
-- 🌱 Estudando desenvolvimento de jogos
+- 🌱 Estudando Desenvolvimento de jogos e Front-End;
 - 😄 Pronouns: ele/dele
 
 <div>
