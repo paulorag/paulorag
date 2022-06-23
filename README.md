@@ -1,9 +1,6 @@
 ### Olá! Eu sou o Paulo Roberto
 
 
-- 🌱 Estudando Desenvolvimento de jogos e Front-End;
-- 😄 Pronouns: ele/dele
-
 <div>
   <a href="https://github.com/paulorag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
