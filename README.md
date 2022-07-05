@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Roberto</h1>
 <h3 align="center">A front-end development student from Brazil</h3>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript and Bootstrap**
 
 <div>
   <a href="https://github.com/paulorag">
