@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Roberto</h1>
-<h3 align="center">A front-end development student from Brazil</h3>
+<h3 align="center">A development student from Brazil</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, React and Phyton**
 
