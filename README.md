@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou melhorando meu portfólio<br>⚡ Estou me aprofundando em JavaScript(ES6)<br>🌱 Estou estudando sobre ReactJS
+🔭 Estou melhorando meu portfólio<br>⚡ Estou me aprofundando em JavaScript(ES6)<br>🌱 Estou estudando sobre C#
 
 
 ## 🌐 Socials:
