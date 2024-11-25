@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou melhorando meu portfólio<br>⚡ Estou me aprofundando em Java
+🔭 Estou melhorando meu portfólio
 
 
 ## 🌐 Socials:
